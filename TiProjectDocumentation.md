@@ -1,12 +1,12 @@
-# Project title [![Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://www.appcelerator.com/titanium/)[![Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://www.appcelerator.com/alloy/)
-===
+# Project title [![Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://www.appcelerator.com/titanium/) [![Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://www.appcelerator.com/alloy/)
 
 This widget for the [Appcelerator](http://www.appcelerator.com) Titanium Alloy MVC framework provides _[describe project here: what's its story/purpose?]_
 
 ## Preview
 _Protip:_ an animated GIF is the best way to show it "live"  
 
-![Example gif from To.BounceView](http://zippy.gfycat.com/DarlingFairHornet.gif)
+![Example gif from To.BounceView](http://zippy.gfycat.com/DarlingFairHornet.gif)  
+_Example gif from To.BounceView_
 
 ## Quick Start
 
