@@ -1,12 +1,11 @@
-# Project title
-[![Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://www.appcelerator.com/titanium/)
-[![Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://www.appcelerator.com/alloy/)
+# Project title [![Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://www.appcelerator.com/titanium/)[![Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://www.appcelerator.com/alloy/)
 ===
 
 This widget for the [Appcelerator](http://www.appcelerator.com) Titanium Alloy MVC framework provides _[describe project here: what's its story/purpose?]_
 
 ## Preview
-_Protip:_ an animated GIF is the best way to show it "live"
+_Protip:_ an animated GIF is the best way to show it "live"  
+
 ![Example gif from To.BounceView](http://zippy.gfycat.com/DarlingFairHornet.gif)
 
 ## Quick Start
@@ -44,11 +43,8 @@ var module = require("my.project.id");
 ```
 
 Then you can [DO THIS] or [DO SOMETHING ELSE].
-
-## Use the Widget in the View
-
 ```
-(Some quick example of use can help)
+Some quick examples of use are always helpful
 ```
 
 
@@ -113,9 +109,9 @@ Here is a list of all supported events and the associated expected behaviour:
 
 
 ## Customization
-How to apply custom styles to the project?
-What kind of custom models are supported (provide structure)?
-Which public properties can be accessed (provide list)?
+* How to apply custom styles to the project?
+* What kind of custom models are supported (provide structure)?
+* Which public properties can be accessed (provide list)?
 
 ******************************************
 
@@ -138,7 +134,7 @@ Here are my ideas:
 ## Dependencies
 * [To.BounceView](https://github.com/Topener/To.BounceView)
 * [nl.fokkezb.button](https://github.com/FokkeZB/nl.fokkezb.button)
-* []()
+* [...]()
 
 ## Licences
 This project is licensed under [LICENSE]. Please read the [LICENSE FILE] file for more information about this license.  
