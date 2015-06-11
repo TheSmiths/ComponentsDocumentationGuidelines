@@ -46,7 +46,9 @@
 
 ![][platform-android]
 
+- [com.alcoapps.actionbarextras](https://github.com/ricardoalcocer/actionbarextras) : Script your Android actionbar layout changes
 - [com.atticoos.tiokhttp](https://github.com/ajwhite/titanium-okhttp) : An interchangeable HTTP client that interfaces okhttp.
+- [com.rkam.swiperefreshlayout](https://github.com/iskugor/Ti.SwipeRefreshLayout) : Pull to Refresh animation for Android
 - [com.tripvi.drawerlayout](https://github.com/manumaticx/Ti.DrawerLayout) : Native drawer layout for Android
 
 ## Library
