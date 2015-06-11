@@ -4,12 +4,15 @@
 
 ![][platform-all]
 
+- [au.jkotchoff.scrollableView](https://github.com/jkotchoff/au.jkotchoff.scrollableView) : View that mimics the iOS implementation of the Ti.UI.ScrollableView.
 - [com.caffeinalab.titanium.notifications](https://github.com/CaffeinaLab/Ti.Notifications) : Alloy Titanium widget to display an in-app notification.
 - [com.imobicloud.slider](https://github.com/imobicloud/com.imobicloud.slider) : Sliders controls for Titanium.
+- [com.mattmcfarland.fontawesome](https://github.com/MattMcFarland/com.mattmcfarland.fontawesome) : Font-Awesome(v4.3.0) for Titanium Alloy
 - [com.mcongrove.navigationBar](https://github.com/mcongrove/com.mcongrove.navigationBar) : A custom Navigation Bar for Titanium.
 - [com.parallaxcontainer.blitz](https://github.com/MichelBahl/com.parallaxcontainer.blitz) : Provide a container view to put a parallax item in.
 - [com.tourist.components.rating](https://github.com/DavidHe1127/rating_bar) : This widget allows users to rate or purely display the rates only.
 - [com.veb.tihighcharts](https://github.com/vitorebatista/TiHighCharts) : High charts for Titanium. 
+- [de.blitz.infiniteImageScrollableview](https://github.com/MichelBahl/de.blitz.infiniteImageScrollableview) : Lazy loading infinite scrollable view.
 - [it.toriphes.timeago](https://github.com/toriphes/it.toriphes.timeago) : This widget allows you to determine and display the "ago" time.
 - [me.wslong.tiNavbar](https://github.com/Shallong/tiNavbarDemo/tree/master/app/widgets/me.wslong.tiNavbar) : A custom Navigation Bar for Titanium.
 - [nl.fokkezb.drawer](https://github.com/fokkezb/nl.fokkezb.drawer) : Wrapper for the NappDrawerr module.
@@ -32,21 +35,29 @@
 
 ![][platform-all]
 
+- [bencoding.blur](https://github.com/benbahrenburg/Ti.BlurView) : Create a blur view.
 - [bencoding.securely](https://github.com/benbahrenburg/Securely) : Blocks to create secure Titanium apps.
+- [com.animecyc.animator](https://github.com/animecyc/TitaniumAnimator) : An enhanced Animator that mimics Titanium existing one.
 - [com.geraudbourdin.svgview](https://github.com/GeraudBourdin/Ti.SvgView) : Create a view from an svg file.
 - [dk.napp.drawer](https://github.com/viezel/NappDrawer) : A native drawer for Titanium.
 - [dk.napp.social](https://github.com/viezel/TiSocial.Framework) : Share content on social networks.
+- [nl.rebelic.hockeyapp](https://github.com/timanrebel/HockeyApp) : HockeyApp SDK module for Titanium.
 - [ti.facebook](https://github.com/appcelerator-modules/ti.facebook) : Connect your application with facebook
 
 ![][platform-ios]
 
+- [com.facebook](https://github.com/mokesmokes/titanium-ios-facebook) : An enhanced facebook module for IOS.
+- [com.0x82.webserver](https://github.com/rubenfonseca/titanium-webserver) : A built-in HTTP webserver inside your application.
+- [ti.geovisite](https://github.com/benbahrenburg/Ti.GeoVisits) : iOS 8 Visit functionality in your iOS Titanium app
 - [ti.wormhole](https://github.com/benbahrenburg/Ti.Wormhole) : Titanium event support for the Today Widget and the Apple Watch.
 
 ![][platform-android]
 
 - [com.atticoos.tiokhttp](https://github.com/ajwhite/titanium-okhttp) : An interchangeable HTTP client that interfaces okhttp.
+- [com.geraudbourdin.sensor](https://github.com/GeraudBourdin/Ti.sensor) : Titanium sensor module.
+- [org.selfkleptomaniac.ti.imageasresized](https://github.com/yagitoshiro/ImageAsResized) : A small image resize module.
 
-## Library
+## Libraries
 
 ![][platform-all]
 
@@ -59,11 +70,19 @@
 - [appc.redis](https://github.com/appcelerator/appc.redis) : Redis connector for Arrow.
 - [appc.salesforce](https://github.com/appcelerator/appc.salesforce) : An Arrow connector to Salesforce.
 - [arrow-orm](https://github.com/appcelerator/arrow-orm) : Object relational mapping (ORM) framework for Arrow.
+- [compose.io](https://github.com/compose-eu/Appcelerator) : The COMPOSE JavaScript library designed to be used with Titanium Appcelerator.
+- [file_loader](https://github.com/sukima/TiCachedImages) : A caching file downloader for Titanium.
 - [postgres](https://github.com/jonahbron/arrow-connector-postgres) : An Arrow connector to Postgres.
+- [restapi](https://github.com/viezel/napp.alloy.adapter.restapi) : RestAPI Sync Adapter for Titanium Alloy Framework.
+- [RESTe](https://github.com/jasonkneen/RESTe) : Make the use of several REST api easier.
+- [selectInputBox](https://github.com/yeelan0319/Titanium-select-input-box) :  Simulates the HTML5 select input.
+- [tiapp.xml](https://github.com/tonylukasavage/tiapp.xml) : Read and modify entries in the tiapp.xml file programmatically.
 - [ti-better-option-dialog](https://github.com/adammagana/ti-better-option-dialog) : The Titanium option dialog but with easier option creation.
-- [ti-html2label](https://github.com/sharpred/ti-html2label) : Convert HTML to Titanium objects
+- [ti-html2label](https://github.com/sharpred/ti-html2label) : Convert HTML to Titanium objects.
 - [ti-proxy](https://github.com/FokkeZB/ti-proxy) : Parse JavaScript to proxy Titanium API calls.
-- [ti.states](https://github.com/CodlyLabs/ti.states) : Define states for your user interface components
+- [ti.states](https://github.com/CodlyLabs/ti.states) : Define states for your user interface components.
+- [validator](https://github.com/manumaticx/ti-validator) : This is a titaniumified version of validator.
+- [winston](https://github.com/FokkeZB/winston-acs) : A Node.ACS transport for winston.
 
 ![][platform-ios]
 
@@ -76,6 +95,15 @@
 [platform-ios]: https://img.shields.io/badge/platform-ios-3498db.svg?style=flat-square
 [platform-android]: https://img.shields.io/badge/platform-android-2ecc71.svg?style=flat-squared
 
+## Plugins
+
+- [grunt](https://github.com/tonylukasavage/grunt-titanium) : Grunt plugin for the Titanium CLI.
+- [ti.babel](https://github.com/dawsontoth/ti.babel) : Use ES6 inside titanium apps.
+- [tiCalabash](https://github.com/KtorZ/TiCalabash) : Calabash for Android and IOS with i18n support.
+- [tich](https://github.com/jasonkneen/tich): Switch TiApp.xml configurations via the CLI
+- [ti-commonjs-wrap-plugin](https://github.com/sttts/ti-commonjs-wrap-plugin) : Allow to use NodeJS style modules in Alloy.
+- [ti-ignore-plugin](https://github.com/sttts/ti-ignore-plugin) : Add .tiignore file support to the Titanium CLI build process.
+
 ## Miscellaneous
 
 - [Parse Starter Template w/REST Service](https://github.com/aaronksaunders/parse-starter-appC)
@@ -84,6 +112,18 @@
 - [Barebones template for native hierarchical](https://github.com/appcelerator-developer-relations/Template.Hierarchical-Navigation)
 - [Barebones for flat navigation](https://github.com/appcelerator-developer-relations/Template.Flat-Navigation)
 - [Barebones template for tab based action bar style](https://github.com/appcelerator-developer-relations/Template.Tab-based-ActionBar-Style)
+- [Titaniumifier](https://github.com/smclab/titaniumifier/wiki)
+- [Haxe Extern Classes](https://github.com/momer/haxe_titanium_mobile)
+- [Linting and styles checks](https://github.com/ingo/grunt-appc-js)
+- [Plugin Boilerplate](https://github.com/appcelerator/titanium-cli-plugin-boilerplate)
+- [Continuous Integration Boilerplate](https://github.com/thesmiths/ts.boilerplate)
+- [JSCA2js](https://github.com/navinpeiris/jsca2js)
+- [D3Example](https://github.com/magnatronus/d3-adventures-one)
+- [Rutile: Factory automation for Mobile Enterprise](https://github.com/RayKitajima/Rutile)
+- [Read Eval Print loop for Titanium](https://github.com/tonylukasavage/triple)
+- [Ti forward > Discuss](https://github.com/TiForward/discuss)
+- [Ti Mocha](https://github.com/tonylukasavage/ti-mocha)
+- [Ti Shadow](https://github.com/dbankier/TiShadow)
 
 ## Contribution 
 [![license](https://img.shields.io/badge/license-public_domain-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
