@@ -16,7 +16,7 @@
 - [nl.fokkezb.infiniteScroll](https://github.com/FokkeZB/nl.fokkezb.infiniteScroll) : An implementation of the design pattern known as Endless Scroll. 
 - [nl.fokkezb.loading](https://github.com/FokkeZB/nl.fokkezb.loading) : A simple loading mask.
 - [nl.fokkezb.pullToRefresh](https://github.com/fokkezb/nl.fokkezb.pullToRefresh) : Emulate a native pull to refresh.
-- [Topener.To.BounceView](https://github.com/Topener/To.BounceView) : A view that bounces on resize.
+- [To.BounceView](https://github.com/Topener/To.BounceView) : A view that bounces on resize.
 - [ts.chat](https://github.com/TheSmiths-Widgets/ts.chat) : A chat widget where the content is separated from the widget.
 - [ts.prettymenu](https://github.com/TheSmiths-Widgets/ts.prettymenu) : Insert fancy menus in an app window.
 - [ts.messageBuilderFactory](https://github.com/TheSmiths-Widgets/ts.messageBuilderFactory) : Generate delegates that build message views for ts.chat widget.
