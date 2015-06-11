@@ -74,7 +74,7 @@
 
 [platform-all]: https://img.shields.io/badge/platform-all-9b59b6.svg?style=flat-square
 [platform-ios]: https://img.shields.io/badge/platform-ios-3498db.svg?style=flat-square
-[platform-android]: https://img.shields.io/badge/platform-android-2ecc71.svg?style=flat-squared
+[platform-android]: https://img.shields.io/badge/platform-android-2ecc71.svg?style=flat-square
 
 ## Miscellaneous
 
