@@ -7,6 +7,8 @@
 - [com.caffeinalab.titanium.notifications](https://github.com/CaffeinaLab/Ti.Notifications) : Alloy Titanium widget to display an in-app notification.
 - [com.imobicloud.slider](https://github.com/imobicloud/com.imobicloud.slider) : Sliders controls for Titanium.
 - [com.mcongrove.navigationBar](https://github.com/mcongrove/com.mcongrove.navigationBar) : A custom Navigation Bar for Titanium.
+- [com.mcvendrell.switch](https://github.com/mcvendrell/widget_switch) : A styled switch for Android/mobileweb with the holo style.
+- [com.orthlieb.combobox](https://github.com/orthlieb/widget_combobox/tree/master/app/widgets/com.orthlieb.combobox/docs) : A field that allows the user to pick from a list of items in combo style.
 - [com.parallaxcontainer.blitz](https://github.com/MichelBahl/com.parallaxcontainer.blitz) : Provide a container view to put a parallax item in.
 - [com.tourist.components.rating](https://github.com/DavidHe1127/rating_bar) : This widget allows users to rate or purely display the rates only.
 - [com.veb.tihighcharts](https://github.com/vitorebatista/TiHighCharts) : High charts for Titanium. 
