@@ -61,7 +61,7 @@
 - [com.rkam.swiperefreshlayout](https://github.com/iskugor/Ti.SwipeRefreshLayout) : Pull to Refresh animation for Android
 - [org.selfkleptomaniac.ti.imageasresized](https://github.com/yagitoshiro/ImageAsResized) : A small image resize module.
 - [com.tripvi.drawerlayout](https://github.com/manumaticx/Ti.DrawerLayout) : Native drawer layout for Android
-
+- [org.iotashan.TiTouchImageView](https://github.com/iotashan/TiTouchImageView) : Native image view that allows pan/pinch/zoom
 ## Libraries
 
 ![][platform-all]
