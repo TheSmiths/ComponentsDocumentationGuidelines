@@ -45,6 +45,7 @@
 - [dk.napp.social](https://github.com/viezel/TiSocial.Framework) : Share content on social networks.
 - [nl.rebelic.hockeyapp](https://github.com/timanrebel/HockeyApp) : HockeyApp SDK module for Titanium.
 - [ti.facebook](https://github.com/appcelerator-modules/ti.facebook) : Connect your application with facebook
+- [de.marcelpociot.circularslider](https://github.com/mpociot/TiCircularSlider) : Titanium circular slider module with many customizations.
 
 ![][platform-ios]
 
